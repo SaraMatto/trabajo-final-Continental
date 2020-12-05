@@ -28,5 +28,6 @@ public class appC {
 	    j1.dejarEnPozo(3, pozo);
 	    System.out.println("------------");
 	    pozo.getCantidadCartas();
+	    System.out.println("Hola");
 	}
 }
