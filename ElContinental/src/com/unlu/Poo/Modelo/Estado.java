@@ -4,5 +4,6 @@ public enum Estado {
      COMIENZO,
      ROBOCARTA,
      CAMBIO_JUGADOR,
-     FINALIZAR_JUEGO;
+     FINALIZAR_JUEGO,
+	 CAMBIO;
 }
